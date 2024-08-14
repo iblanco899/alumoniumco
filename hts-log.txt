@@ -1,0 +1,77 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Aug 2024 07:45:06 at https://aluminumstation.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aluminumstation.com/ -O1 "C:\My Web Sites\aluminiumSite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:45:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://aluminumstation.com/xmlrpc.php (from https://aluminumstation.com/)
+07:45:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://aluminumstation.com/xmlrpc.php?rsd (from https://aluminumstation.com/)
+07:45:48	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://aluminumstation.com/)
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/services/windows-doors/
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/services/windows-doors/ to https://aluminumstation.com/products/windows-doors/
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/services/bifold-doors/
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/services/bifold-doors/ to https://aluminumstation.com/products/bifold-doors/
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/services/lift-and-slide-doors/
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/services/lift-and-slide-doors/ to https://aluminumstation.com/products/lift-and-slide-doors/
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/services/curtain-walls/
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/services/curtain-walls/ to https://aluminumstation.com/products/curtain-walls/
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/services/store-front/
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/services/store-front/ to https://aluminumstation.com/products/store-front/
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/services/patio-enclosing/
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/services/patio-enclosing/ to https://aluminumstation.com/products/patio-enclosing/
+07:50:18	Error: 	"Not Found" (404) at link https://aluminumstation.com/portfolio/ (from https://aluminumstation.com/)
+07:50:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://aluminumstation.com/xmlrpc.php (from https://aluminumstation.com/)
+07:50:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://aluminumstation.com/xmlrpc.php?rsd (from https://aluminumstation.com/)
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/?p=195
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/?p=195 to https://aluminumstation.com/products/
+07:50:18	Warning: 	Moved Permanently for https://aluminumstation.com/?p=32
+07:50:18	Warning: 	File has moved from https://aluminumstation.com/?p=32 to https://aluminumstation.com/products/windows-doors/
+07:50:19	Warning: 	Moved Permanently for https://aluminumstation.com/?p=16
+07:50:19	Warning: 	File has moved from https://aluminumstation.com/?p=16 to https://aluminumstation.com/products/bifold-doors/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=26
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=26 to https://aluminumstation.com/products/lift-and-slide-doors/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=22
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=22 to https://aluminumstation.com/products/curtain-walls/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=28
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=28 to https://aluminumstation.com/products/store-front/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=30
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=30 to https://aluminumstation.com/products/patio-enclosing/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1130
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=1130 to https://aluminumstation.com/our-projects/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=71521
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=71521 to https://aluminumstation.com/faq/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=14
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=14 to https://aluminumstation.com/contact-us/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=24
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=24 to https://aluminumstation.com/request-a-quote/
+07:50:20	Warning: 	Moved Permanently for https://aluminumstation.com/?p=71778
+07:50:20	Warning: 	File has moved from https://aluminumstation.com/?p=71778 to https://aluminumstation.com/project/aluminum-bifold-fixed-window-forestside/
+07:50:24	Warning: 	Moved Permanently for https://aluminumstation.com/?p=71735
+07:50:24	Warning: 	File has moved from https://aluminumstation.com/?p=71735 to https://aluminumstation.com/project/aluminum-bifold-door-prairie/
+07:50:24	Warning: 	Moved Permanently for https://aluminumstation.com/?p=71734
+07:50:24	Warning: 	File has moved from https://aluminumstation.com/?p=71734 to https://aluminumstation.com/project/aluminum-lift-slide-door-lowbanks/
+07:50:24	Warning: 	Moved Permanently for https://aluminumstation.com/?p=71731
+07:50:24	Warning: 	File has moved from https://aluminumstation.com/?p=71731 to https://aluminumstation.com/project/aluminum-bifold-door-window-poolside/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1202
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1202 to https://aluminumstation.com/project/aluminum-lift-slide-door-hamilton/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1191
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1191 to https://aluminumstation.com/project/aluminum-door-window-barrie/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1167
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1167 to https://aluminumstation.com/project/aluminum-lift-slide-window-cambridge/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1114
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1114 to https://aluminumstation.com/project/aluminum-lift-slide-window-niagara/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1098
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1098 to https://aluminumstation.com/project/aluminum-bifold-door-stouffville/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1071
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1071 to https://aluminumstation.com/project/aluminum-lift-and-slide-door-brampton/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1063
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1063 to https://aluminumstation.com/project/aluminum-bifold-window-north-york/
+07:50:25	Warning: 	Moved Permanently for https://aluminumstation.com/?p=1027
+07:50:25	Warning: 	File has moved from https://aluminumstation.com/?p=1027 to https://aluminumstation.com/project/aluminum-lift-slide-door-window-vaughan/
+07:50:25	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://aluminumstation.com/xmlrpc.php (from https://aluminumstation.com/)
+07:50:25	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://aluminumstation.com/xmlrpc.php?rsd (from https://aluminumstation.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 21 seconds : 687 links scanned, 649 files written (90065071 bytes overall) [83038445 bytes received at 258686 bytes/sec], 9144586 bytes transferred using HTTP compression in 188 files, ratio 18%, 31.3 requests per connection
+(4 errors, 62 warnings, 0 messages)
